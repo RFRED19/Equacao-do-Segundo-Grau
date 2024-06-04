@@ -1,5 +1,6 @@
 # Equacao-do-Segundo-Grau
 Programa que calcula a equação do segundo grau.
+
 ![image](https://github.com/RFRED19/Equacao-do-Segundo-Grau/assets/167909275/b12c0675-1971-41e3-965e-1c9efbcfa0f0)
 
 /*
