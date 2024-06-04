@@ -1,7 +1,8 @@
 # Equacao-do-Segundo-Grau
 Programa que calcula a equação do segundo grau.
 
-![image](https://github.com/RFRED19/Equacao-do-Segundo-Grau/assets/167909275/b12c0675-1971-41e3-965e-1c9efbcfa0f0)
+![image](https://github.com/RFRED19/Equacao-do-Segundo-Grau/assets/167909275/0405726a-0406-4867-be50-7dc7ec2348bd)
+
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
